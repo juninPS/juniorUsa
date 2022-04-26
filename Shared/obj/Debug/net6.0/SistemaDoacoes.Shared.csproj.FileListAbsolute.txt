@@ -1,0 +1,12 @@
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\bin\Debug\net6.0\SistemaDoacoes.Shared.deps.json
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\bin\Debug\net6.0\SistemaDoacoes.Shared.dll
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\bin\Debug\net6.0\SistemaDoacoes.Shared.pdb
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\obj\Debug\net6.0\SistemaDoacoes.Shared.csproj.AssemblyReference.cache
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\obj\Debug\net6.0\SistemaDoacoes.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\obj\Debug\net6.0\SistemaDoacoes.Shared.AssemblyInfoInputs.cache
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\obj\Debug\net6.0\SistemaDoacoes.Shared.AssemblyInfo.cs
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\obj\Debug\net6.0\SistemaDoacoes.Shared.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\obj\Debug\net6.0\SistemaDoacoes.Shared.dll
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\obj\Debug\net6.0\refint\SistemaDoacoes.Shared.dll
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\obj\Debug\net6.0\SistemaDoacoes.Shared.pdb
+D:\VisualStudio2022\Projetos\SistemaDoacoes\Shared\obj\Debug\net6.0\ref\SistemaDoacoes.Shared.dll
