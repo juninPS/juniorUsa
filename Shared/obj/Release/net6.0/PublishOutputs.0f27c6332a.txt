@@ -1,0 +1,3 @@
+D:\VisualStudio2022\Projetos\SistemaDoacoes\release\SistemaDoacoes.Shared.dll
+D:\VisualStudio2022\Projetos\SistemaDoacoes\release\SistemaDoacoes.Shared.deps.json
+D:\VisualStudio2022\Projetos\SistemaDoacoes\release\SistemaDoacoes.Shared.pdb
